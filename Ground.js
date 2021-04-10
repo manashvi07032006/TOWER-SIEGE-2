@@ -13,7 +13,6 @@ class Ground {
       rectMode(CENTER);
       strokeWeight(3);
       stroke("black");
-     // fill("brown");
       rect(pos.x, pos.y, this.width, this.height);
     }
   };
